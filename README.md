@@ -1,20 +1,42 @@
-<div align="center">
-<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/af5a9f75-d73d-43e3-b3af-a78304be52a3" />
-</div>
+# AI Image Stylizer
 
-# Run and deploy your AI Studio app
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue)
 
-This contains everything you need to run your app locally.
+## Introduction
+AI Image Stylizer is a powerful tool that allows you to apply artistic styles to your images using advanced machine learning techniques.
 
-View your app in AI Studio: https://ai.studio/apps/drive/11__8plwQTf2mdcuHnw4wpigJIkNOEAr8
+## Features
+- **Multiple Style Options**: Choose from a variety of artistic styles.
+- **High-Quality Outputs**: Generate high-resolution images with stunning details.
+- **User-Friendly Interface**: Simple and intuitive interface for easy use.
 
-## Run Locally
+## Installation
+To install the AI Image Stylizer, follow these steps:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/apix7/Ai-image-stylizer.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Ai-image-stylizer
+   ```
+3. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-**Prerequisites:**  Node.js
+## Usage
+To use the AI Image Stylizer, run the following command:
+```bash
+python stylize.py --input <input_image> --style <style>
+```
+Replace `<input_image>` with the path to your image and `<style>` with the desired artistic style.
 
+## Contributing
+We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+Thank you to all the contributors and to the open-source community for their support!
