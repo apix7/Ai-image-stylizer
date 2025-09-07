@@ -7,7 +7,8 @@
 
 ## 🌟 Introduction
 
-<img width="1915" height="1027" alt="image" src="https://github.com/user-attachments/assets/da51830a-7ec2-47e8-a307-c6e25d41fc4f" />
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/d9d96113-b244-42db-8435-58ab42ebbc3f" />
+
 
 **AI Image Stylizer** is a modern web application that allows you to transform your photos into stunning works of art using advanced AI-powered style transfer. Built primarily with TypeScript and HTML, this tool leverages state-of-the-art machine learning techniques to apply a variety of artistic styles to your images with just a few clicks.
 
@@ -23,13 +24,6 @@
 ## 🖼️ Demo
 
 
-
-<p align="center">
-  <img src="docs/screenshot1.png" width="400">
-  <img src="docs/screenshot2.png" width="400">
-</p>
-
-> *Want to try it out?* 
 
 https://ai.studio/apps/drive/11__8plwQTf2mdcuHnw4wpigJIkNOEAr8       
 
