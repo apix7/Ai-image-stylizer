@@ -1,0 +1,5 @@
+{
+  "name": "AI Image Stylizer",
+  "description": "Upload a photo, select a creative style from our gallery, and let Gemini transform your image with a single click. Discover artistic edits like pop art, watercolor, sketches, and more.",
+  "requestFramePermissions": []
+}
